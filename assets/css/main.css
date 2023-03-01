@@ -8634,3 +8634,9 @@ input, select, textarea {
 	fill: #47D3E5;
 }
 
+.contact-method {
+	margin-left: 30rem;
+}
+.contact-method span {
+	font-size: 1.5rem;
+}
